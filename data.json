@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-13T00:29:04+09:00",
+  "generatedAt": "2026-10-13T00:38:28+09:00",
   "marketThrough": "2026-10-12",
   "offline": false,
-  "pricePolicy": "제작 팩트 가격 대비 이후 거래일 미조정 종가의 단순 증감률. 배당·수수료 제외. 분할·병합 등 권리변동은 보정하지 않습니다.",
+  "pricePolicy": "제작 팩트 가격 대비 최신 미조정 종가의 단순 증감률(기준일 종가 포함). D+N은 기준일 이후 관측 거래일만 집계합니다. 배당·수수료 제외. 분할·병합 등 권리변동은 보정하지 않습니다.",
   "items": [
     {
       "id": "2026-10-12-000650",
@@ -14,9 +14,17 @@
       "baselineDate": "2026-10-12",
       "baselineSource": "영상 제작 팩트 스냅샷",
       "history": [],
-      "checkedAt": "2026-10-13T00:29:04+09:00",
-      "status": "waiting",
-      "latest": null,
+      "checkedAt": "2026-10-13T00:38:28+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-12",
+        "close": 214000.0
+      },
+      "latest": {
+        "date": "2026-10-12",
+        "close": 214000.0,
+        "changePct": 2.15
+      },
       "milestones": {
         "1": null,
         "5": null,
@@ -33,9 +41,17 @@
       "baselineDate": "2026-10-12",
       "baselineSource": "영상 제작 팩트 스냅샷",
       "history": [],
-      "checkedAt": "2026-10-13T00:29:04+09:00",
-      "status": "waiting",
-      "latest": null,
+      "checkedAt": "2026-10-13T00:38:28+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-12",
+        "close": 11070.0
+      },
+      "latest": {
+        "date": "2026-10-12",
+        "close": 11070.0,
+        "changePct": 0.0
+      },
       "milestones": {
         "1": null,
         "5": null,
@@ -52,9 +68,17 @@
       "baselineDate": "2026-10-12",
       "baselineSource": "영상 제작 팩트 스냅샷",
       "history": [],
-      "checkedAt": "2026-10-13T00:29:04+09:00",
-      "status": "waiting",
-      "latest": null,
+      "checkedAt": "2026-10-13T00:38:28+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-12",
+        "close": 3470.0
+      },
+      "latest": {
+        "date": "2026-10-12",
+        "close": 3470.0,
+        "changePct": -0.86
+      },
       "milestones": {
         "1": null,
         "5": null,
@@ -77,8 +101,12 @@
           "changePct": 11.02
         }
       ],
-      "checkedAt": "2026-10-13T00:29:04+09:00",
+      "checkedAt": "2026-10-13T00:38:28+09:00",
       "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-12",
+        "close": 41300.0
+      },
       "latest": {
         "date": "2026-10-12",
         "close": 41300.0,

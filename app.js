@@ -1,11 +1,11 @@
 const $ = s => document.querySelector(s);
 let data;
-const money = n => n == null ? '확인 불가' : `${n.toLocaleString('ko-KR')}원`;
-const percent = n => n == null ? '—' : `${n > 0 ? '+' : ''}${n.toFixed(2)}%`;
+const money = n => n == null ? '시세 미수신' : `${n.toLocaleString('ko-KR')}원`;
+const percent = n => n == null ? '집계 대기' : `${n > 0 ? '+' : ''}${n.toFixed(2)}%`;
 const tone = n => n > 0 ? 'up' : n < 0 ? 'down' : 'neutral';
 const escape = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function chart(item) {
-  if (!item.history.length) return '<p class="empty">후속 거래일 시세를 기다리고 있습니다.</p>';
+  if (!item.history.length) return `<p class="empty">${item.latest ? '최신 종가는 위에 표시했습니다. D+1부터의 추이는 후속 거래일에 추가됩니다.' : item.status === 'fetch-error' ? '시세 조회에 실패했습니다. 다음 갱신 시 재시도합니다.' : '시세를 아직 수신하지 못했습니다.'}</p>`;
   const points = [0, ...item.history.map(p => p.changePct)];
   const low = Math.min(...points, -1), high = Math.max(...points, 1);
   const y = v => 105 - (v-low)/(high-low)*90;
@@ -17,7 +17,7 @@ function render() {
   let items = data.items.filter(i => `${i.name} ${i.ticker}`.includes(term));
   const sort = $('#sort').value;
   if (sort !== 'date') items.sort((a,b) => (a.latest == null)-(b.latest == null) || (sort==='return'? -1:1)*((a.latest?.changePct??0)-(b.latest?.changePct??0)));
-  $('#summary').innerHTML = `<div><strong>${data.items.length}</strong><span>제작 기록</span></div><div><strong>${data.items.filter(i=>i.latest).length}</strong><span>후속 시세 확인</span></div><div><strong>${new Set(data.items.map(i=>i.ticker)).size}</strong><span>추적 종목</span></div>`;
+  $('#summary').innerHTML = `<div><strong>${data.items.length}</strong><span>제작 기록</span></div><div><strong>${data.items.filter(i=>i.latest).length}</strong><span>최신 종가 확인</span></div><div><strong>${new Set(data.items.map(i=>i.ticker)).size}</strong><span>추적 종목</span></div>`;
   const labels = {'fetch-error':'조회 실패 · 이전 시세 유지','waiting':'후속 거래일 대기','missing-baseline':'기준가격 또는 날짜 확인 필요','no-new-data':'새 거래 시세 없음','pending':'시세 갱신 대기','ok':'시세 조회 완료'};
   $('#cards').innerHTML = items.map(i=>`<article><h2>${escape(i.name)} <small>${escape(i.ticker)}</small></h2><time>제작 기록 ${escape(i.createdAt.replace('T',' '))}${i.createdAtSource==='archive'?' · 아카이브 시각':''}</time><div class="prices"><div><small>영상 기준가격 · ${escape(i.baselineDate||'날짜 미상')}</small><strong>${money(i.baseline)}</strong></div><div><small>최근 종가 · ${escape(i.latest?.date||'대기')}</small><strong>${money(i.latest?.close)}</strong></div></div><div class="change ${tone(i.latest?.changePct)}">${percent(i.latest?.changePct)}</div><div class="milestones">${[1,5,20].map(n=>`<div><span>D+${n}</span><b class="${tone(i.milestones[n])}">${percent(i.milestones[n])}</b></div>`).join('')}</div>${chart(i)}<p class="status">${labels[i.status]||'확인 필요'} · 마지막 조회 ${escape(i.checkedAt?.replace('T',' ')||'없음')}</p><details><summary>일별 가격 기록 보기</summary><table><thead><tr><th>거래일</th><th>종가</th><th>기준 대비</th></tr></thead><tbody>${[...i.history].reverse().map(p=>`<tr><td>${escape(p.date)}</td><td>${money(p.close)}</td><td class="${tone(p.changePct)}">${percent(p.changePct)}</td></tr>`).join('')}</tbody></table></details></article>`).join('') || '<p class="empty">해당 제작 기록이 없습니다.</p>';
 }
