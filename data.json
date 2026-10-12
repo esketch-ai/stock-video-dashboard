@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-10-13T00:26:13+09:00",
+  "marketThrough": "2026-10-12",
+  "offline": false,
+  "pricePolicy": "제작 팩트 가격 대비 이후 거래일 미조정 종가의 단순 증감률. 배당·수수료 제외. 분할·병합 등 권리변동은 보정하지 않습니다.",
+  "items": [
+    {
+      "id": "2026-10-12-000650",
+      "ticker": "000650",
+      "name": "천일고속",
+      "createdAt": "2026-10-12T15:41:14",
+      "createdAtSource": "archive",
+      "baseline": 209500.0,
+      "baselineDate": "2026-10-12",
+      "baselineSource": "영상 제작 팩트 스냅샷",
+      "history": [],
+      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "status": "waiting",
+      "latest": null,
+      "milestones": {
+        "1": null,
+        "5": null,
+        "20": null
+      }
+    },
+    {
+      "id": "2026-10-12-001210",
+      "ticker": "001210",
+      "name": "금호전기",
+      "createdAt": "2026-10-12T15:41:14",
+      "createdAtSource": "archive",
+      "baseline": 11070.0,
+      "baselineDate": "2026-10-12",
+      "baselineSource": "영상 제작 팩트 스냅샷",
+      "history": [],
+      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "status": "waiting",
+      "latest": null,
+      "milestones": {
+        "1": null,
+        "5": null,
+        "20": null
+      }
+    },
+    {
+      "id": "2026-10-12-012170",
+      "ticker": "012170",
+      "name": "아센디오",
+      "createdAt": "2026-10-12T15:41:14",
+      "createdAtSource": "archive",
+      "baseline": 3500.0,
+      "baselineDate": "2026-10-12",
+      "baselineSource": "영상 제작 팩트 스냅샷",
+      "history": [],
+      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "status": "waiting",
+      "latest": null,
+      "milestones": {
+        "1": null,
+        "5": null,
+        "20": null
+      }
+    },
+    {
+      "id": "2026-10-11-084670",
+      "ticker": "084670",
+      "name": "동양고속",
+      "createdAt": "2026-10-11T09:14:48",
+      "createdAtSource": "archive",
+      "baseline": 37200.0,
+      "baselineDate": "2026-10-08",
+      "baselineSource": "영상 제작 팩트 스냅샷",
+      "history": [
+        {
+          "date": "2026-10-12",
+          "close": 41300.0,
+          "changePct": 11.02
+        }
+      ],
+      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "status": "ok",
+      "latest": {
+        "date": "2026-10-12",
+        "close": 41300.0,
+        "changePct": 11.02
+      },
+      "milestones": {
+        "1": 11.02,
+        "5": null,
+        "20": null
+      }
+    }
+  ]
+}
