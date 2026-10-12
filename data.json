@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:26:13+09:00",
+  "generatedAt": "2026-10-13T00:27:53+09:00",
   "marketThrough": "2026-10-12",
   "offline": false,
   "pricePolicy": "제작 팩트 가격 대비 이후 거래일 미조정 종가의 단순 증감률. 배당·수수료 제외. 분할·병합 등 권리변동은 보정하지 않습니다.",
@@ -14,7 +14,7 @@
       "baselineDate": "2026-10-12",
       "baselineSource": "영상 제작 팩트 스냅샷",
       "history": [],
-      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "checkedAt": "2026-10-13T00:27:53+09:00",
       "status": "waiting",
       "latest": null,
       "milestones": {
@@ -33,7 +33,7 @@
       "baselineDate": "2026-10-12",
       "baselineSource": "영상 제작 팩트 스냅샷",
       "history": [],
-      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "checkedAt": "2026-10-13T00:27:53+09:00",
       "status": "waiting",
       "latest": null,
       "milestones": {
@@ -52,7 +52,7 @@
       "baselineDate": "2026-10-12",
       "baselineSource": "영상 제작 팩트 스냅샷",
       "history": [],
-      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "checkedAt": "2026-10-13T00:27:53+09:00",
       "status": "waiting",
       "latest": null,
       "milestones": {
@@ -77,7 +77,7 @@
           "changePct": 11.02
         }
       ],
-      "checkedAt": "2026-10-13T00:26:13+09:00",
+      "checkedAt": "2026-10-13T00:27:53+09:00",
       "status": "ok",
       "latest": {
         "date": "2026-10-12",
