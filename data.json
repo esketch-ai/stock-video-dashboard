@@ -6,7 +6,7 @@
     "winRatePct": 50.0,
     "targetHitsCount": 0,
     "marketThrough": "2026-10-16",
-    "generatedAt": "2026-10-17T10:51:35+09:00"
+    "generatedAt": "2026-10-17T11:18:44+09:00"
   },
   "pricePolicy": "YouTube 영상 추천 당시 종가 대비 미조정 일별 종가 수익률입니다. D+N은 추천일 이후 관측된 거래일 기준입니다.",
   "items": [
@@ -26,7 +26,7 @@
       "youtubeUrl": "https://youtu.be/Qif1bEGgkio",
       "thumbUrl": "https://i.ytimg.com/vi/Qif1bEGgkio/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 428.0,
@@ -44,7 +44,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=015260",
+      "tossUrl": "https://wts.tossinvest.com/stocks/015260",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A015260"
     },
     {
       "id": "2026-10-16-034730",
@@ -78,7 +81,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=034730",
+      "tossUrl": "https://wts.tossinvest.com/stocks/034730",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A034730"
     },
     {
       "id": "2026-10-16-005930",
@@ -112,7 +118,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=005930",
+      "tossUrl": "https://wts.tossinvest.com/stocks/005930",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A005930"
     },
     {
       "id": "2026-10-16-000660",
@@ -146,7 +155,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=000660",
+      "tossUrl": "https://wts.tossinvest.com/stocks/000660",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A000660"
     },
     {
       "id": "2026-10-16-035420",
@@ -180,7 +192,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=035420",
+      "tossUrl": "https://wts.tossinvest.com/stocks/035420",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A035420"
     },
     {
       "id": "2026-10-16-009540",
@@ -214,7 +229,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=009540",
+      "tossUrl": "https://wts.tossinvest.com/stocks/009540",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A009540"
     },
     {
       "id": "2026-10-16-028260",
@@ -248,7 +266,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=028260",
+      "tossUrl": "https://wts.tossinvest.com/stocks/028260",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A028260"
     },
     {
       "id": "2026-10-15-084010",
@@ -282,7 +303,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=084010",
+      "tossUrl": "https://wts.tossinvest.com/stocks/084010",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A084010"
     },
     {
       "id": "2026-10-17-084010",
@@ -300,7 +324,7 @@
       "youtubeUrl": "https://youtu.be/oK0XfOLINNo",
       "thumbUrl": "https://i.ytimg.com/vi/oK0XfOLINNo/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 10760.0,
@@ -318,7 +342,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=084010",
+      "tossUrl": "https://wts.tossinvest.com/stocks/084010",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A084010"
     },
     {
       "id": "2026-10-15-011330",
@@ -352,7 +379,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=011330",
+      "tossUrl": "https://wts.tossinvest.com/stocks/011330",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A011330"
     },
     {
       "id": "2026-10-16-011330",
@@ -386,7 +416,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=011330",
+      "tossUrl": "https://wts.tossinvest.com/stocks/011330",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A011330"
     },
     {
       "id": "2026-10-15-089590",
@@ -420,7 +453,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=089590",
+      "tossUrl": "https://wts.tossinvest.com/stocks/089590",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A089590"
     },
     {
       "id": "2026-10-17-089590",
@@ -438,7 +474,7 @@
       "youtubeUrl": "https://youtu.be/hbBWUB0hyqI",
       "thumbUrl": "https://i.ytimg.com/vi/hbBWUB0hyqI/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 5560.0,
@@ -456,7 +492,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=089590",
+      "tossUrl": "https://wts.tossinvest.com/stocks/089590",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A089590"
     },
     {
       "id": "2026-10-15-002990",
@@ -490,7 +529,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=002990",
+      "tossUrl": "https://wts.tossinvest.com/stocks/002990",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A002990"
     },
     {
       "id": "2026-10-16-002990",
@@ -524,7 +566,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=002990",
+      "tossUrl": "https://wts.tossinvest.com/stocks/002990",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A002990"
     },
     {
       "id": "2026-10-13-015260",
@@ -552,7 +597,7 @@
           "changePct": 79.08
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -576,7 +621,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=015260",
+      "tossUrl": "https://wts.tossinvest.com/stocks/015260",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A015260"
     },
     {
       "id": "2026-10-13-002820",
@@ -604,7 +652,7 @@
           "changePct": 0.25
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -628,7 +676,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=002820",
+      "tossUrl": "https://wts.tossinvest.com/stocks/002820",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A002820"
     },
     {
       "id": "2026-10-13-014990",
@@ -656,7 +707,7 @@
           "changePct": 0.0
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -680,7 +731,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=014990",
+      "tossUrl": "https://wts.tossinvest.com/stocks/014990",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A014990"
     },
     {
       "id": "2026-10-13-002990",
@@ -708,7 +762,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=002990",
+      "tossUrl": "https://wts.tossinvest.com/stocks/002990",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A002990"
     },
     {
       "id": "2026-10-13-004835",
@@ -736,7 +793,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=004835",
+      "tossUrl": "https://wts.tossinvest.com/stocks/004835",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A004835"
     },
     {
       "id": "2026-10-13-000650",
@@ -769,7 +829,7 @@
           "changePct": 0.0
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -797,7 +857,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=000650",
+      "tossUrl": "https://wts.tossinvest.com/stocks/000650",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A000650"
     },
     {
       "id": "2026-10-12-000650",
@@ -830,7 +893,7 @@
           "changePct": 2.15
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -854,7 +917,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=000650",
+      "tossUrl": "https://wts.tossinvest.com/stocks/000650",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A000650"
     },
     {
       "id": "2026-10-12-001210",
@@ -887,7 +953,7 @@
           "changePct": -14.63
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -911,7 +977,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=001210",
+      "tossUrl": "https://wts.tossinvest.com/stocks/001210",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A001210"
     },
     {
       "id": "2026-10-12-012170",
@@ -944,7 +1013,7 @@
           "changePct": -12.43
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -968,7 +1037,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=012170",
+      "tossUrl": "https://wts.tossinvest.com/stocks/012170",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A012170"
     },
     {
       "id": "2026-10-13-001210",
@@ -996,7 +1068,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=001210",
+      "tossUrl": "https://wts.tossinvest.com/stocks/001210",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A001210"
     },
     {
       "id": "2026-10-13-084670",
@@ -1028,7 +1103,10 @@
         "5": null,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=084670",
+      "tossUrl": "https://wts.tossinvest.com/stocks/084670",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A084670"
     },
     {
       "id": "2026-10-11-084670",
@@ -1066,7 +1144,7 @@
           "changePct": 1.21
         }
       ],
-      "checkedAt": "2026-10-17T10:51:35+09:00",
+      "checkedAt": "2026-10-17T11:18:44+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1094,7 +1172,10 @@
         "5": 1.21,
         "10": null,
         "20": null
-      }
+      },
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=084670",
+      "tossUrl": "https://wts.tossinvest.com/stocks/084670",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A084670"
     }
   ]
 }
