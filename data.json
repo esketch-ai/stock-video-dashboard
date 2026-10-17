@@ -6,7 +6,7 @@
     "winRatePct": 50.0,
     "targetHitsCount": 0,
     "marketThrough": "2026-10-16",
-    "generatedAt": "2026-10-17T13:41:38+09:00",
+    "generatedAt": "2026-10-17T13:47:03+09:00",
     "krMarketOpen": false,
     "usMarketOpen": false,
     "marketSessionText": "정규 시장 마감 (대기)"
@@ -29,7 +29,7 @@
       "youtubeUrl": "https://youtu.be/Qif1bEGgkio",
       "thumbUrl": "https://i.ytimg.com/vi/Qif1bEGgkio/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 428.0,
@@ -351,7 +351,7 @@
       "youtubeUrl": "https://youtu.be/oK0XfOLINNo",
       "thumbUrl": "https://i.ytimg.com/vi/oK0XfOLINNo/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 10760.0,
@@ -513,7 +513,7 @@
       "youtubeUrl": "https://youtu.be/hbBWUB0hyqI",
       "thumbUrl": "https://i.ytimg.com/vi/hbBWUB0hyqI/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 5560.0,
@@ -645,7 +645,7 @@
           "changePct": 79.08
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -703,7 +703,7 @@
           "changePct": 0.25
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -761,7 +761,7 @@
           "changePct": 0.0
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -892,7 +892,7 @@
           "changePct": 0.0
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -959,7 +959,7 @@
           "changePct": 2.15
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1022,7 +1022,7 @@
           "changePct": -14.63
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1085,7 +1085,7 @@
           "changePct": -12.43
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1225,7 +1225,7 @@
           "changePct": 1.21
         }
       ],
-      "checkedAt": "2026-10-17T13:41:38+09:00",
+      "checkedAt": "2026-10-17T13:47:03+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
