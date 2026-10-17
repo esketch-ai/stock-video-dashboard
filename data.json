@@ -1,18 +1,60 @@
 {
   "summary": {
-    "totalTracked": 27,
+    "totalTracked": 30,
     "activeQuotes": 8,
     "avgReturnPct": 6.95,
     "winRatePct": 50.0,
     "targetHitsCount": 0,
     "marketThrough": "2026-10-16",
-    "generatedAt": "2026-10-17T13:47:03+09:00",
+    "generatedAt": "2026-10-18T02:55:01+09:00",
     "krMarketOpen": false,
     "usMarketOpen": false,
     "marketSessionText": "정규 시장 마감 (대기)"
   },
   "pricePolicy": "YouTube 영상 추천 당시 종가 대비 미조정 일별 종가 수익률입니다. 한국 주식은 09:00~17:00 KST, 미국 주식은 09:30~16:30 ET 동안 1시간마다 갱신됩니다.",
   "items": [
+    {
+      "id": "2026-10-18-009190",
+      "ticker": "009190",
+      "name": "대양금속",
+      "market": "KOSPI",
+      "createdAt": "2026-10-18T02:53:23+09:00",
+      "baseline": 1049.0,
+      "baselineDate": "2026-10-18",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 1210.5,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "JqDCerrLXho",
+      "youtubeUrl": "https://youtu.be/JqDCerrLXho",
+      "thumbUrl": "https://i.ytimg.com/vi/JqDCerrLXho/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-18T02:55:01+09:00",
+      "status": "waiting",
+      "latest": null,
+      "maxPrice": 1049.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 1049.0,
+      "targetUpsidePct": 15.4,
+      "targetProgressPct": 0.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=009190",
+      "tossUrl": "https://wts.tossinvest.com/stocks/009190",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/009190.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A009190"
+    },
     {
       "id": "2026-10-17-015260",
       "ticker": "015260",
@@ -29,7 +71,7 @@
       "youtubeUrl": "https://youtu.be/Qif1bEGgkio",
       "thumbUrl": "https://i.ytimg.com/vi/Qif1bEGgkio/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 428.0,
@@ -351,7 +393,49 @@
       "youtubeUrl": "https://youtu.be/oK0XfOLINNo",
       "thumbUrl": "https://i.ytimg.com/vi/oK0XfOLINNo/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
+      "status": "waiting",
+      "latest": null,
+      "maxPrice": 10760.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 10760.0,
+      "targetUpsidePct": 6.88,
+      "targetProgressPct": 0.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=084010",
+      "tossUrl": "https://wts.tossinvest.com/stocks/084010",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/084010.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A084010"
+    },
+    {
+      "id": "2026-10-18-084010",
+      "ticker": "084010",
+      "name": "대한제강",
+      "market": "KOSPI",
+      "createdAt": "2026-10-15T22:53:11+09:00",
+      "baseline": 10760.0,
+      "baselineDate": "2026-10-18",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 11500.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "oK0XfOLINNo",
+      "youtubeUrl": "https://youtu.be/oK0XfOLINNo",
+      "thumbUrl": "https://i.ytimg.com/vi/oK0XfOLINNo/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 10760.0,
@@ -513,7 +597,49 @@
       "youtubeUrl": "https://youtu.be/hbBWUB0hyqI",
       "thumbUrl": "https://i.ytimg.com/vi/hbBWUB0hyqI/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
+      "status": "waiting",
+      "latest": null,
+      "maxPrice": 5560.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 5560.0,
+      "targetUpsidePct": 7.91,
+      "targetProgressPct": 0.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=089590",
+      "tossUrl": "https://wts.tossinvest.com/stocks/089590",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/089590.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A089590"
+    },
+    {
+      "id": "2026-10-18-089590",
+      "ticker": "089590",
+      "name": "제주항공",
+      "market": "KOSPI",
+      "createdAt": "2026-10-15T22:27:26+09:00",
+      "baseline": 5560.0,
+      "baselineDate": "2026-10-18",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 6000.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "hbBWUB0hyqI",
+      "youtubeUrl": "https://youtu.be/hbBWUB0hyqI",
+      "thumbUrl": "https://i.ytimg.com/vi/hbBWUB0hyqI/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "waiting",
       "latest": null,
       "maxPrice": 5560.0,
@@ -645,7 +771,7 @@
           "changePct": 79.08
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -703,7 +829,7 @@
           "changePct": 0.25
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -761,7 +887,7 @@
           "changePct": 0.0
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -892,7 +1018,7 @@
           "changePct": 0.0
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -959,7 +1085,7 @@
           "changePct": 2.15
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1022,7 +1148,7 @@
           "changePct": -14.63
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1085,7 +1211,7 @@
           "changePct": -12.43
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
@@ -1225,7 +1351,7 @@
           "changePct": 1.21
         }
       ],
-      "checkedAt": "2026-10-17T13:47:03+09:00",
+      "checkedAt": "2026-10-18T02:55:01+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-16",
