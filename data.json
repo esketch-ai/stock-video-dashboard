@@ -1,18 +1,754 @@
 {
   "summary": {
-    "totalTracked": 30,
-    "activeQuotes": 14,
-    "avgReturnPct": 5.04,
-    "winRatePct": 50.0,
+    "totalTracked": 45,
+    "activeQuotes": 29,
+    "avgReturnPct": -9.97,
+    "winRatePct": 20.7,
     "targetHitsCount": 0,
-    "marketThrough": "2026-10-19",
-    "generatedAt": "2026-10-19T13:29:13+09:00",
+    "marketThrough": "2026-10-23",
+    "generatedAt": "2026-10-23T15:29:08+09:00",
     "krMarketOpen": true,
     "usMarketOpen": false,
     "marketSessionText": "한국 시장 장중 (09:00~17:00 KST)"
   },
   "pricePolicy": "YouTube 영상 추천 당시 종가 대비 미조정 일별 종가 수익률입니다. 한국 주식은 09:00~17:00 KST, 미국 주식은 09:30~16:30 ET 동안 1시간마다 갱신됩니다.",
   "items": [
+    {
+      "id": "2026-10-23-030610",
+      "ticker": "030610",
+      "name": "교보증권",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T09:29:57+09:00",
+      "baseline": 8750.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 13200.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "P6v3c3q_SdQ",
+      "youtubeUrl": "https://youtu.be/P6v3c3q_SdQ",
+      "thumbUrl": "https://i.ytimg.com/vi/P6v3c3q_SdQ/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 8140.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 8140.0,
+        "changePct": -6.97
+      },
+      "maxPrice": 8750.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 8140.0,
+      "targetUpsidePct": 50.86,
+      "targetProgressPct": -13.7,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=030610",
+      "tossUrl": "https://wts.tossinvest.com/stocks/030610",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/030610.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A030610"
+    },
+    {
+      "id": "2026-10-23-000145",
+      "ticker": "000145",
+      "name": "하이트진로홀딩스우",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T08:34:34+09:00",
+      "baseline": 9050.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 13725.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "7tFwoGnN-aU",
+      "youtubeUrl": "https://youtu.be/7tFwoGnN-aU",
+      "thumbUrl": "https://i.ytimg.com/vi/7tFwoGnN-aU/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 8960.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 8960.0,
+        "changePct": -0.99
+      },
+      "maxPrice": 9050.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 8960.0,
+      "targetUpsidePct": 51.66,
+      "targetProgressPct": -1.9,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=000145",
+      "tossUrl": "https://wts.tossinvest.com/stocks/000145",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/000145.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A000145"
+    },
+    {
+      "id": "2026-10-23-004890",
+      "ticker": "004890",
+      "name": "동일산업",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T07:43:07+09:00",
+      "baseline": 35700.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 53475.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "hETos1Vo9og",
+      "youtubeUrl": "https://youtu.be/hETos1Vo9og",
+      "thumbUrl": "https://i.ytimg.com/vi/hETos1Vo9og/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 34800.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 34800.0,
+        "changePct": -2.52
+      },
+      "maxPrice": 35700.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 34800.0,
+      "targetUpsidePct": 49.79,
+      "targetProgressPct": -5.1,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=004890",
+      "tossUrl": "https://wts.tossinvest.com/stocks/004890",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/004890.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A004890"
+    },
+    {
+      "id": "2026-10-23-004700",
+      "ticker": "004700",
+      "name": "조광피혁",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T06:49:53+09:00",
+      "baseline": 66400.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 100500.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "-Lmd12Nmf84",
+      "youtubeUrl": "https://youtu.be/-Lmd12Nmf84",
+      "thumbUrl": "https://i.ytimg.com/vi/-Lmd12Nmf84/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 64900.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 64900.0,
+        "changePct": -2.26
+      },
+      "maxPrice": 66400.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 64900.0,
+      "targetUpsidePct": 51.36,
+      "targetProgressPct": -4.4,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=004700",
+      "tossUrl": "https://wts.tossinvest.com/stocks/004700",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/004700.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A004700"
+    },
+    {
+      "id": "2026-10-23-004835",
+      "ticker": "004835",
+      "name": "덕성우",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T05:56:38+09:00",
+      "baseline": 5440.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 7380.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "7maGFmk9vsI",
+      "youtubeUrl": "https://youtu.be/7maGFmk9vsI",
+      "thumbUrl": "https://i.ytimg.com/vi/7maGFmk9vsI/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 5380.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 5380.0,
+        "changePct": -1.1
+      },
+      "maxPrice": 5440.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 5380.0,
+      "targetUpsidePct": 35.66,
+      "targetProgressPct": -3.1,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=004835",
+      "tossUrl": "https://wts.tossinvest.com/stocks/004835",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/004835.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A004835"
+    },
+    {
+      "id": "2026-10-23-005960",
+      "ticker": "005960",
+      "name": "동부건설",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T05:05:24+09:00",
+      "baseline": 8350.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 15000.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "qF21_lC9nVk",
+      "youtubeUrl": "https://youtu.be/qF21_lC9nVk",
+      "thumbUrl": "https://i.ytimg.com/vi/qF21_lC9nVk/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 8160.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 8160.0,
+        "changePct": -2.28
+      },
+      "maxPrice": 8350.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 8160.0,
+      "targetUpsidePct": 79.64,
+      "targetProgressPct": -2.9,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=005960",
+      "tossUrl": "https://wts.tossinvest.com/stocks/005960",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/005960.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A005960"
+    },
+    {
+      "id": "2026-10-23-006570",
+      "ticker": "006570",
+      "name": "대림통상",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T04:11:15+09:00",
+      "baseline": 1985.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 2680.5,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "bvZgXqkxZ3U",
+      "youtubeUrl": "https://youtu.be/bvZgXqkxZ3U",
+      "thumbUrl": "https://i.ytimg.com/vi/bvZgXqkxZ3U/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 1875.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 1875.0,
+        "changePct": -5.54
+      },
+      "maxPrice": 1985.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 1875.0,
+      "targetUpsidePct": 35.04,
+      "targetProgressPct": -15.8,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=006570",
+      "tossUrl": "https://wts.tossinvest.com/stocks/006570",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/006570.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A006570"
+    },
+    {
+      "id": "2026-10-23-028050",
+      "ticker": "028050",
+      "name": "삼성E&A",
+      "market": "KOSPI",
+      "createdAt": "2026-10-23T03:17:41+09:00",
+      "baseline": 55400.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 70238.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "s83trgqI-pQ",
+      "youtubeUrl": "https://youtu.be/s83trgqI-pQ",
+      "thumbUrl": "https://i.ytimg.com/vi/s83trgqI-pQ/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 59550.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 59550.0,
+        "changePct": 7.49
+      },
+      "maxPrice": 59550.0,
+      "maxReturnPct": 7.49,
+      "minPrice": 55400.0,
+      "targetUpsidePct": 26.78,
+      "targetProgressPct": 28.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=028050",
+      "tossUrl": "https://wts.tossinvest.com/stocks/028050",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/028050.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A028050"
+    },
+    {
+      "id": "2026-10-22-244920",
+      "ticker": "244920",
+      "name": "에이플러스에셋",
+      "market": "KOSPI",
+      "createdAt": "2026-10-22T07:46:21+09:00",
+      "baseline": 12630.0,
+      "baselineDate": "2026-10-22",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 16635.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "Vf7AanAWOBY",
+      "youtubeUrl": "https://youtu.be/Vf7AanAWOBY",
+      "thumbUrl": "https://i.ytimg.com/vi/Vf7AanAWOBY/hqdefault.jpg",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "close": 12770.0,
+          "changePct": 1.11
+        }
+      ],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 12770.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 12770.0,
+        "changePct": 1.11
+      },
+      "maxPrice": 12770.0,
+      "maxReturnPct": 1.11,
+      "minPrice": 12630.0,
+      "targetUpsidePct": 31.71,
+      "targetProgressPct": 3.5,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": 1.11,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=244920",
+      "tossUrl": "https://wts.tossinvest.com/stocks/244920",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/244920.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A244920"
+    },
+    {
+      "id": "2026-10-22-417310",
+      "ticker": "417310",
+      "name": "코람코더원리츠",
+      "market": "KOSPI",
+      "createdAt": "2026-10-22T06:48:55+09:00",
+      "baseline": 2390.0,
+      "baselineDate": "2026-10-22",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 3585.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "eAATxiHw1Fg",
+      "youtubeUrl": "https://youtu.be/eAATxiHw1Fg",
+      "thumbUrl": "https://i.ytimg.com/vi/eAATxiHw1Fg/hqdefault.jpg",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "close": 2395.0,
+          "changePct": 0.21
+        }
+      ],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 2395.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 2395.0,
+        "changePct": 0.21
+      },
+      "maxPrice": 2395.0,
+      "maxReturnPct": 0.21,
+      "minPrice": 2390.0,
+      "targetUpsidePct": 50.0,
+      "targetProgressPct": 0.4,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": 0.21,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=417310",
+      "tossUrl": "https://wts.tossinvest.com/stocks/417310",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/417310.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A417310"
+    },
+    {
+      "id": "2026-10-22-079900",
+      "ticker": "079900",
+      "name": "전진건설로봇",
+      "market": "KOSPI",
+      "createdAt": "2026-10-22T05:54:55+09:00",
+      "baseline": 36750.0,
+      "baselineDate": "2026-10-22",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 52667.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "dLbI25K88gM",
+      "youtubeUrl": "https://youtu.be/dLbI25K88gM",
+      "thumbUrl": "https://i.ytimg.com/vi/dLbI25K88gM/hqdefault.jpg",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "close": 38600.0,
+          "changePct": 5.03
+        }
+      ],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 38600.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 38600.0,
+        "changePct": 5.03
+      },
+      "maxPrice": 38600.0,
+      "maxReturnPct": 5.03,
+      "minPrice": 36750.0,
+      "targetUpsidePct": 43.31,
+      "targetProgressPct": 11.6,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": 5.03,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=079900",
+      "tossUrl": "https://wts.tossinvest.com/stocks/079900",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/079900.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A079900"
+    },
+    {
+      "id": "2026-10-22-181710",
+      "ticker": "181710",
+      "name": "NHN",
+      "market": "KOSPI",
+      "createdAt": "2026-10-22T04:58:05+09:00",
+      "baseline": 56400.0,
+      "baselineDate": "2026-10-22",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 79545.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "CVypWSz34rE",
+      "youtubeUrl": "https://youtu.be/CVypWSz34rE",
+      "thumbUrl": "https://i.ytimg.com/vi/CVypWSz34rE/hqdefault.jpg",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "close": 51300.0,
+          "changePct": -9.04
+        }
+      ],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 51300.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 51300.0,
+        "changePct": -9.04
+      },
+      "maxPrice": 56400.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 51300.0,
+      "targetUpsidePct": 41.04,
+      "targetProgressPct": -22.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": -9.04,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=181710",
+      "tossUrl": "https://wts.tossinvest.com/stocks/181710",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/181710.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A181710"
+    },
+    {
+      "id": "2026-10-22-013580",
+      "ticker": "013580",
+      "name": "계룡건설",
+      "market": "KOSPI",
+      "createdAt": "2026-10-22T04:00:44+09:00",
+      "baseline": 25500.0,
+      "baselineDate": "2026-10-22",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 32000.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "oTlt5YhJ81w",
+      "youtubeUrl": "https://youtu.be/oTlt5YhJ81w",
+      "thumbUrl": "https://i.ytimg.com/vi/oTlt5YhJ81w/hqdefault.jpg",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "close": 26400.0,
+          "changePct": 3.53
+        }
+      ],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 26400.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 26400.0,
+        "changePct": 3.53
+      },
+      "maxPrice": 26400.0,
+      "maxReturnPct": 3.53,
+      "minPrice": 25500.0,
+      "targetUpsidePct": 25.49,
+      "targetProgressPct": 13.8,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": 3.53,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=013580",
+      "tossUrl": "https://wts.tossinvest.com/stocks/013580",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/013580.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A013580"
+    },
+    {
+      "id": "2026-10-22-009900",
+      "ticker": "009900",
+      "name": "명신산업",
+      "market": "KOSPI",
+      "createdAt": "2026-10-22T03:02:52+09:00",
+      "baseline": 10190.0,
+      "baselineDate": "2026-10-22",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 12975.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "jb06WVBvLm8",
+      "youtubeUrl": "https://youtu.be/jb06WVBvLm8",
+      "thumbUrl": "https://i.ytimg.com/vi/jb06WVBvLm8/hqdefault.jpg",
+      "history": [
+        {
+          "date": "2026-10-23",
+          "close": 9150.0,
+          "changePct": -10.21
+        }
+      ],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 9150.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 9150.0,
+        "changePct": -10.21
+      },
+      "maxPrice": 10190.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 9150.0,
+      "targetUpsidePct": 27.33,
+      "targetProgressPct": -37.3,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": -10.21,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=009900",
+      "tossUrl": "https://wts.tossinvest.com/stocks/009900",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/009900.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A009900"
+    },
     {
       "id": "2026-10-18-009190",
       "ticker": "009190",
@@ -31,34 +767,54 @@
       "history": [
         {
           "date": "2026-10-19",
-          "close": 1001.0,
-          "changePct": -4.58
+          "close": 983.0,
+          "changePct": -6.29
+        },
+        {
+          "date": "2026-10-20",
+          "close": 864.0,
+          "changePct": -17.64
+        },
+        {
+          "date": "2026-10-21",
+          "close": 834.0,
+          "changePct": -20.5
+        },
+        {
+          "date": "2026-10-22",
+          "close": 741.0,
+          "changePct": -29.36
+        },
+        {
+          "date": "2026-10-23",
+          "close": 697.0,
+          "changePct": -33.56
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 1001.0
+        "date": "2026-10-23",
+        "close": 697.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 1001.0,
-        "changePct": -4.58
+        "date": "2026-10-23",
+        "close": 697.0,
+        "changePct": -33.56
       },
       "maxPrice": 1049.0,
       "maxReturnPct": 0.0,
-      "minPrice": 1001.0,
+      "minPrice": 697.0,
       "targetUpsidePct": 15.4,
-      "targetProgressPct": -29.7,
+      "targetProgressPct": -218.0,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": -4.58,
-        "3": null,
-        "5": null,
+        "1": -6.29,
+        "3": -20.5,
+        "5": -33.56,
         "10": null,
         "20": null
       },
@@ -87,34 +843,54 @@
       "history": [
         {
           "date": "2026-10-19",
-          "close": 444.0,
-          "changePct": 3.74
+          "close": 300.0,
+          "changePct": -29.91
+        },
+        {
+          "date": "2026-10-20",
+          "close": 253.0,
+          "changePct": -40.89
+        },
+        {
+          "date": "2026-10-21",
+          "close": 232.0,
+          "changePct": -45.79
+        },
+        {
+          "date": "2026-10-22",
+          "close": 200.0,
+          "changePct": -53.27
+        },
+        {
+          "date": "2026-10-23",
+          "close": 178.0,
+          "changePct": -58.41
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 444.0
+        "date": "2026-10-23",
+        "close": 178.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 444.0,
-        "changePct": 3.74
+        "date": "2026-10-23",
+        "close": 178.0,
+        "changePct": -58.41
       },
-      "maxPrice": 444.0,
-      "maxReturnPct": 3.74,
-      "minPrice": 428.0,
+      "maxPrice": 428.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 178.0,
       "targetUpsidePct": 32.83,
-      "targetProgressPct": 11.4,
+      "targetProgressPct": -177.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": 3.74,
-        "3": null,
-        "5": null,
+        "1": -29.91,
+        "3": -45.79,
+        "5": -58.41,
         "10": null,
         "20": null
       },
@@ -423,34 +1199,54 @@
       "history": [
         {
           "date": "2026-10-19",
-          "close": 10730.0,
-          "changePct": -0.28
+          "close": 10750.0,
+          "changePct": -0.09
+        },
+        {
+          "date": "2026-10-20",
+          "close": 9900.0,
+          "changePct": -7.99
+        },
+        {
+          "date": "2026-10-21",
+          "close": 9680.0,
+          "changePct": -10.04
+        },
+        {
+          "date": "2026-10-22",
+          "close": 9230.0,
+          "changePct": -14.22
+        },
+        {
+          "date": "2026-10-23",
+          "close": 9000.0,
+          "changePct": -16.36
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 10730.0
+        "date": "2026-10-23",
+        "close": 9000.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 10730.0,
-        "changePct": -0.28
+        "date": "2026-10-23",
+        "close": 9000.0,
+        "changePct": -16.36
       },
       "maxPrice": 10760.0,
       "maxReturnPct": 0.0,
-      "minPrice": 10730.0,
+      "minPrice": 9000.0,
       "targetUpsidePct": 6.88,
-      "targetProgressPct": -4.1,
+      "targetProgressPct": -237.8,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": -0.28,
-        "3": null,
-        "5": null,
+        "1": -0.09,
+        "3": -10.04,
+        "5": -16.36,
         "10": null,
         "20": null
       },
@@ -479,34 +1275,54 @@
       "history": [
         {
           "date": "2026-10-19",
-          "close": 10730.0,
-          "changePct": -0.28
+          "close": 10750.0,
+          "changePct": -0.09
+        },
+        {
+          "date": "2026-10-20",
+          "close": 9900.0,
+          "changePct": -7.99
+        },
+        {
+          "date": "2026-10-21",
+          "close": 9680.0,
+          "changePct": -10.04
+        },
+        {
+          "date": "2026-10-22",
+          "close": 9230.0,
+          "changePct": -14.22
+        },
+        {
+          "date": "2026-10-23",
+          "close": 9000.0,
+          "changePct": -16.36
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 10730.0
+        "date": "2026-10-23",
+        "close": 9000.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 10730.0,
-        "changePct": -0.28
+        "date": "2026-10-23",
+        "close": 9000.0,
+        "changePct": -16.36
       },
       "maxPrice": 10760.0,
       "maxReturnPct": 0.0,
-      "minPrice": 10730.0,
+      "minPrice": 9000.0,
       "targetUpsidePct": 6.88,
-      "targetProgressPct": -4.1,
+      "targetProgressPct": -237.8,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": -0.28,
-        "3": null,
-        "5": null,
+        "1": -0.09,
+        "3": -10.04,
+        "5": -16.36,
         "10": null,
         "20": null
       },
@@ -526,7 +1342,7 @@
       "baseline": null,
       "baselineDate": "2026-10-15",
       "baselineSource": "YouTube 영상 추천 당시 종가",
-      "targetPrice": null,
+      "targetPrice": 9990.0,
       "stopLoss": null,
       "archetype": "저평가 가치 반등",
       "youtubeId": "JmmfRB1BdQI",
@@ -566,7 +1382,7 @@
       "baseline": null,
       "baselineDate": "2026-10-16",
       "baselineSource": "YouTube 영상 추천 당시 종가",
-      "targetPrice": null,
+      "targetPrice": 9990.0,
       "stopLoss": null,
       "archetype": "저평가 가치 반등",
       "youtubeId": "JmmfRB1BdQI",
@@ -581,6 +1397,56 @@
       "minPrice": null,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=011330",
+      "tossUrl": "https://wts.tossinvest.com/stocks/011330",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/011330.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A011330"
+    },
+    {
+      "id": "2026-10-23-011330",
+      "ticker": "011330",
+      "name": "유니켐",
+      "market": "KOSPI",
+      "createdAt": "2026-10-15T22:39:51+09:00",
+      "baseline": 7330.0,
+      "baselineDate": "2026-10-23",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 9990.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "JmmfRB1BdQI",
+      "youtubeUrl": "https://youtu.be/JmmfRB1BdQI",
+      "thumbUrl": "https://i.ytimg.com/vi/JmmfRB1BdQI/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "status": "ok",
+      "latestQuote": {
+        "date": "2026-10-23",
+        "close": 6870.0
+      },
+      "latest": {
+        "date": "2026-10-23",
+        "close": 6870.0,
+        "changePct": -6.28
+      },
+      "maxPrice": 7330.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 6870.0,
+      "targetUpsidePct": 36.29,
+      "targetProgressPct": -17.3,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
@@ -655,34 +1521,54 @@
       "history": [
         {
           "date": "2026-10-19",
-          "close": 5440.0,
-          "changePct": -2.16
+          "close": 5570.0,
+          "changePct": 0.18
+        },
+        {
+          "date": "2026-10-20",
+          "close": 5390.0,
+          "changePct": -3.06
+        },
+        {
+          "date": "2026-10-21",
+          "close": 5210.0,
+          "changePct": -6.29
+        },
+        {
+          "date": "2026-10-22",
+          "close": 5310.0,
+          "changePct": -4.5
+        },
+        {
+          "date": "2026-10-23",
+          "close": 5200.0,
+          "changePct": -6.47
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 5440.0
+        "date": "2026-10-23",
+        "close": 5200.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 5440.0,
-        "changePct": -2.16
+        "date": "2026-10-23",
+        "close": 5200.0,
+        "changePct": -6.47
       },
-      "maxPrice": 5560.0,
-      "maxReturnPct": 0.0,
-      "minPrice": 5440.0,
+      "maxPrice": 5570.0,
+      "maxReturnPct": 0.18,
+      "minPrice": 5200.0,
       "targetUpsidePct": 7.91,
-      "targetProgressPct": -27.3,
+      "targetProgressPct": -81.8,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": -2.16,
-        "3": null,
-        "5": null,
+        "1": 0.18,
+        "3": -6.29,
+        "5": -6.47,
         "10": null,
         "20": null
       },
@@ -711,34 +1597,54 @@
       "history": [
         {
           "date": "2026-10-19",
-          "close": 5440.0,
-          "changePct": -2.16
+          "close": 5570.0,
+          "changePct": 0.18
+        },
+        {
+          "date": "2026-10-20",
+          "close": 5390.0,
+          "changePct": -3.06
+        },
+        {
+          "date": "2026-10-21",
+          "close": 5210.0,
+          "changePct": -6.29
+        },
+        {
+          "date": "2026-10-22",
+          "close": 5310.0,
+          "changePct": -4.5
+        },
+        {
+          "date": "2026-10-23",
+          "close": 5200.0,
+          "changePct": -6.47
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 5440.0
+        "date": "2026-10-23",
+        "close": 5200.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 5440.0,
-        "changePct": -2.16
+        "date": "2026-10-23",
+        "close": 5200.0,
+        "changePct": -6.47
       },
-      "maxPrice": 5560.0,
-      "maxReturnPct": 0.0,
-      "minPrice": 5440.0,
+      "maxPrice": 5570.0,
+      "maxReturnPct": 0.18,
+      "minPrice": 5200.0,
       "targetUpsidePct": 7.91,
-      "targetProgressPct": -27.3,
+      "targetProgressPct": -81.8,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": -2.16,
-        "3": null,
-        "5": null,
+        "1": 0.18,
+        "3": -6.29,
+        "5": -6.47,
         "10": null,
         "20": null
       },
@@ -856,24 +1762,44 @@
         },
         {
           "date": "2026-10-19",
-          "close": 444.0,
-          "changePct": 85.77
+          "close": 300.0,
+          "changePct": 25.52
+        },
+        {
+          "date": "2026-10-20",
+          "close": 253.0,
+          "changePct": 5.86
+        },
+        {
+          "date": "2026-10-21",
+          "close": 232.0,
+          "changePct": -2.93
+        },
+        {
+          "date": "2026-10-22",
+          "close": 200.0,
+          "changePct": -16.32
+        },
+        {
+          "date": "2026-10-23",
+          "close": 178.0,
+          "changePct": -25.52
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 444.0
+        "date": "2026-10-23",
+        "close": 178.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 444.0,
-        "changePct": 85.77
+        "date": "2026-10-23",
+        "close": 178.0,
+        "changePct": -25.52
       },
-      "maxPrice": 444.0,
-      "maxReturnPct": 85.77,
-      "minPrice": 239.0,
+      "maxPrice": 428.0,
+      "maxReturnPct": 79.08,
+      "minPrice": 178.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -881,7 +1807,7 @@
       "milestones": {
         "1": 22.18,
         "3": 79.08,
-        "5": null,
+        "5": 5.86,
         "10": null,
         "20": null
       },
@@ -919,24 +1845,44 @@
         },
         {
           "date": "2026-10-19",
-          "close": 1215.0,
-          "changePct": 1.08
+          "close": 1204.0,
+          "changePct": 0.17
+        },
+        {
+          "date": "2026-10-20",
+          "close": 1273.0,
+          "changePct": 5.91
+        },
+        {
+          "date": "2026-10-21",
+          "close": 1190.0,
+          "changePct": -1.0
+        },
+        {
+          "date": "2026-10-22",
+          "close": 1152.0,
+          "changePct": -4.16
+        },
+        {
+          "date": "2026-10-23",
+          "close": 1092.0,
+          "changePct": -9.15
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 1215.0
+        "date": "2026-10-23",
+        "close": 1092.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 1215.0,
-        "changePct": 1.08
+        "date": "2026-10-23",
+        "close": 1092.0,
+        "changePct": -9.15
       },
-      "maxPrice": 1254.0,
-      "maxReturnPct": 4.33,
-      "minPrice": 1202.0,
+      "maxPrice": 1273.0,
+      "maxReturnPct": 5.91,
+      "minPrice": 1092.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -944,7 +1890,7 @@
       "milestones": {
         "1": 4.33,
         "3": 0.25,
-        "5": null,
+        "5": 5.91,
         "10": null,
         "20": null
       },
@@ -982,24 +1928,44 @@
         },
         {
           "date": "2026-10-19",
-          "close": 3785.0,
-          "changePct": 0.93
+          "close": 3800.0,
+          "changePct": 1.33
+        },
+        {
+          "date": "2026-10-20",
+          "close": 3160.0,
+          "changePct": -15.73
+        },
+        {
+          "date": "2026-10-21",
+          "close": 3100.0,
+          "changePct": -17.33
+        },
+        {
+          "date": "2026-10-22",
+          "close": 2800.0,
+          "changePct": -25.33
+        },
+        {
+          "date": "2026-10-23",
+          "close": 2690.0,
+          "changePct": -28.27
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 3785.0
+        "date": "2026-10-23",
+        "close": 2690.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 3785.0,
-        "changePct": 0.93
+        "date": "2026-10-23",
+        "close": 2690.0,
+        "changePct": -28.27
       },
-      "maxPrice": 3785.0,
-      "maxReturnPct": 0.93,
-      "minPrice": 3500.0,
+      "maxPrice": 3800.0,
+      "maxReturnPct": 1.33,
+      "minPrice": 2690.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -1007,7 +1973,7 @@
       "milestones": {
         "1": 0.13,
         "3": 0.0,
-        "5": null,
+        "5": -15.73,
         "10": null,
         "20": null
       },
@@ -1118,27 +2084,47 @@
         },
         {
           "date": "2026-10-19",
-          "close": 227000.0,
-          "changePct": 6.07
+          "close": 222000.0,
+          "changePct": 3.74
+        },
+        {
+          "date": "2026-10-20",
+          "close": 216000.0,
+          "changePct": 0.93
+        },
+        {
+          "date": "2026-10-21",
+          "close": 200000.0,
+          "changePct": -6.54
+        },
+        {
+          "date": "2026-10-22",
+          "close": 203000.0,
+          "changePct": -5.14
+        },
+        {
+          "date": "2026-10-23",
+          "close": 210500.0,
+          "changePct": -1.64
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 227000.0
+        "date": "2026-10-23",
+        "close": 210500.0
       },
       "youtubeId": "qdPBviVuBAU",
       "youtubeUrl": "https://youtu.be/qdPBviVuBAU",
       "thumbUrl": "https://i.ytimg.com/vi/qdPBviVuBAU/hqdefault.jpg",
       "archetype": "저평가 가치 반등",
       "latest": {
-        "date": "2026-10-19",
-        "close": 227000.0,
-        "changePct": 6.07
+        "date": "2026-10-23",
+        "close": 210500.0,
+        "changePct": -1.64
       },
-      "maxPrice": 227000.0,
-      "maxReturnPct": 6.07,
+      "maxPrice": 224000.0,
+      "maxReturnPct": 4.67,
       "minPrice": 172600.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
@@ -1147,7 +2133,7 @@
       "milestones": {
         "1": -19.35,
         "3": 2.8,
-        "5": 6.07,
+        "5": 3.74,
         "10": null,
         "20": null
       },
@@ -1190,23 +2176,43 @@
         },
         {
           "date": "2026-10-19",
-          "close": 227000.0,
-          "changePct": 8.35
+          "close": 222000.0,
+          "changePct": 5.97
+        },
+        {
+          "date": "2026-10-20",
+          "close": 216000.0,
+          "changePct": 3.1
+        },
+        {
+          "date": "2026-10-21",
+          "close": 200000.0,
+          "changePct": -4.53
+        },
+        {
+          "date": "2026-10-22",
+          "close": 203000.0,
+          "changePct": -3.1
+        },
+        {
+          "date": "2026-10-23",
+          "close": 210500.0,
+          "changePct": 0.48
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 227000.0
+        "date": "2026-10-23",
+        "close": 210500.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 227000.0,
-        "changePct": 8.35
+        "date": "2026-10-23",
+        "close": 210500.0,
+        "changePct": 0.48
       },
-      "maxPrice": 227000.0,
-      "maxReturnPct": 8.35,
+      "maxPrice": 224000.0,
+      "maxReturnPct": 6.92,
       "minPrice": 172600.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
@@ -1215,7 +2221,7 @@
       "milestones": {
         "1": -17.61,
         "3": 5.01,
-        "5": 8.35,
+        "5": 5.97,
         "10": null,
         "20": null
       },
@@ -1258,24 +2264,44 @@
         },
         {
           "date": "2026-10-19",
-          "close": 9190.0,
-          "changePct": -16.98
+          "close": 9210.0,
+          "changePct": -16.8
+        },
+        {
+          "date": "2026-10-20",
+          "close": 8550.0,
+          "changePct": -22.76
+        },
+        {
+          "date": "2026-10-21",
+          "close": 8910.0,
+          "changePct": -19.51
+        },
+        {
+          "date": "2026-10-22",
+          "close": 8250.0,
+          "changePct": -25.47
+        },
+        {
+          "date": "2026-10-23",
+          "close": 7890.0,
+          "changePct": -28.73
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 9190.0
+        "date": "2026-10-23",
+        "close": 7890.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 9190.0,
-        "changePct": -16.98
+        "date": "2026-10-23",
+        "close": 7890.0,
+        "changePct": -28.73
       },
       "maxPrice": 11500.0,
       "maxReturnPct": 3.88,
-      "minPrice": 8840.0,
+      "minPrice": 7890.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -1283,7 +2309,7 @@
       "milestones": {
         "1": 3.88,
         "3": -20.14,
-        "5": -16.98,
+        "5": -16.8,
         "10": null,
         "20": null
       },
@@ -1326,24 +2352,44 @@
         },
         {
           "date": "2026-10-19",
-          "close": 3025.0,
-          "changePct": -13.57
+          "close": 3010.0,
+          "changePct": -14.0
+        },
+        {
+          "date": "2026-10-20",
+          "close": 2920.0,
+          "changePct": -16.57
+        },
+        {
+          "date": "2026-10-21",
+          "close": 2900.0,
+          "changePct": -17.14
+        },
+        {
+          "date": "2026-10-22",
+          "close": 2875.0,
+          "changePct": -17.86
+        },
+        {
+          "date": "2026-10-23",
+          "close": 2895.0,
+          "changePct": -17.29
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 3025.0
+        "date": "2026-10-23",
+        "close": 2895.0
       },
       "latest": {
-        "date": "2026-10-19",
-        "close": 3025.0,
-        "changePct": -13.57
+        "date": "2026-10-23",
+        "close": 2895.0,
+        "changePct": -17.29
       },
       "maxPrice": 3570.0,
       "maxReturnPct": 2.0,
-      "minPrice": 3025.0,
+      "minPrice": 2875.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -1351,7 +2397,7 @@
       "milestones": {
         "1": 2.0,
         "3": -10.57,
-        "5": -13.57,
+        "5": -14.0,
         "10": null,
         "20": null
       },
@@ -1471,28 +2517,48 @@
         },
         {
           "date": "2026-10-19",
-          "close": 38950.0,
-          "changePct": 4.7
+          "close": 38100.0,
+          "changePct": 2.42
+        },
+        {
+          "date": "2026-10-20",
+          "close": 34350.0,
+          "changePct": -7.66
+        },
+        {
+          "date": "2026-10-21",
+          "close": 31750.0,
+          "changePct": -14.65
+        },
+        {
+          "date": "2026-10-22",
+          "close": 31550.0,
+          "changePct": -15.19
+        },
+        {
+          "date": "2026-10-23",
+          "close": 32850.0,
+          "changePct": -11.69
         }
       ],
-      "checkedAt": "2026-10-19T13:29:13+09:00",
+      "checkedAt": "2026-10-23T15:29:08+09:00",
       "status": "ok",
       "latestQuote": {
-        "date": "2026-10-19",
-        "close": 38950.0
+        "date": "2026-10-23",
+        "close": 32850.0
       },
       "youtubeId": "WrOEhPqfjmA",
       "youtubeUrl": "https://youtu.be/WrOEhPqfjmA",
       "thumbUrl": "https://i.ytimg.com/vi/WrOEhPqfjmA/hqdefault.jpg",
       "archetype": "저평가 가치 반등",
       "latest": {
-        "date": "2026-10-19",
-        "close": 38950.0,
-        "changePct": 4.7
+        "date": "2026-10-23",
+        "close": 32850.0,
+        "changePct": -11.69
       },
       "maxPrice": 41950.0,
       "maxReturnPct": 12.77,
-      "minPrice": 34350.0,
+      "minPrice": 31550.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -1501,7 +2567,7 @@
         "1": 11.02,
         "3": 12.77,
         "5": 1.21,
-        "10": null,
+        "10": -11.69,
         "20": null
       },
       "isUsStock": false,
