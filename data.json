@@ -1,18 +1,102 @@
 {
   "summary": {
-    "totalTracked": 45,
+    "totalTracked": 47,
     "activeQuotes": 29,
-    "avgReturnPct": -9.97,
+    "avgReturnPct": -10.12,
     "winRatePct": 20.7,
     "targetHitsCount": 0,
     "marketThrough": "2026-10-23",
-    "generatedAt": "2026-10-24T03:36:48+09:00",
+    "generatedAt": "2026-10-24T04:11:05+09:00",
     "krMarketOpen": false,
     "usMarketOpen": true,
     "marketSessionText": "미국 시장 장중 (09:30~16:30 ET)"
   },
   "pricePolicy": "YouTube 영상 추천 당시 종가 대비 미조정 일별 종가 수익률입니다. 한국 주식은 09:00~17:00 KST, 미국 주식은 09:30~16:30 ET 동안 1시간마다 갱신됩니다.",
   "items": [
+    {
+      "id": "2026-10-24-004960",
+      "ticker": "004960",
+      "name": "한신공영",
+      "market": "KOSPI",
+      "createdAt": "2026-10-24T04:08:05+09:00",
+      "baseline": 11710.0,
+      "baselineDate": "2026-10-24",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 16845.0,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "ISEre7NF7e0",
+      "youtubeUrl": "https://youtu.be/ISEre7NF7e0",
+      "thumbUrl": "https://i.ytimg.com/vi/ISEre7NF7e0/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-24T04:11:05+09:00",
+      "status": "waiting",
+      "latest": null,
+      "maxPrice": 11710.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 11710.0,
+      "targetUpsidePct": 43.85,
+      "targetProgressPct": 0.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=004960",
+      "tossUrl": "https://wts.tossinvest.com/stocks/004960",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/004960.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A004960"
+    },
+    {
+      "id": "2026-10-24-012030",
+      "ticker": "012030",
+      "name": "DB",
+      "market": "KOSPI",
+      "createdAt": "2026-10-24T03:18:31+09:00",
+      "baseline": 2420.0,
+      "baselineDate": "2026-10-24",
+      "baselineSource": "YouTube 영상 추천 당시 종가",
+      "targetPrice": 3412.5,
+      "stopLoss": null,
+      "archetype": "저평가 가치 반등",
+      "youtubeId": "yun1d49dK1A",
+      "youtubeUrl": "https://youtu.be/yun1d49dK1A",
+      "thumbUrl": "https://i.ytimg.com/vi/yun1d49dK1A/hqdefault.jpg",
+      "history": [],
+      "checkedAt": "2026-10-24T04:11:05+09:00",
+      "status": "waiting",
+      "latest": null,
+      "maxPrice": 2420.0,
+      "maxReturnPct": 0.0,
+      "minPrice": 2420.0,
+      "targetUpsidePct": 41.01,
+      "targetProgressPct": 0.0,
+      "targetStatus": "관찰 중",
+      "targetStatusClass": "wait",
+      "stopLossMarginPct": null,
+      "stopLossAlert": false,
+      "milestones": {
+        "1": null,
+        "3": null,
+        "5": null,
+        "10": null,
+        "20": null
+      },
+      "isUsStock": false,
+      "currency": "원",
+      "naverFinanceUrl": "https://finance.naver.com/item/main.naver?code=012030",
+      "tossUrl": "https://wts.tossinvest.com/stocks/012030",
+      "yahooFinanceUrl": "https://finance.yahoo.com/quote/012030.KS",
+      "daumFinanceUrl": "https://finance.daum.net/quotes/A012030"
+    },
     {
       "id": "2026-10-23-030610",
       "ticker": "030610",
@@ -29,22 +113,22 @@
       "youtubeUrl": "https://youtu.be/P6v3c3q_SdQ",
       "thumbUrl": "https://i.ytimg.com/vi/P6v3c3q_SdQ/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 8140.0
+        "close": 8170.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 8140.0,
-        "changePct": -6.97
+        "close": 8170.0,
+        "changePct": -6.63
       },
       "maxPrice": 8750.0,
       "maxReturnPct": 0.0,
-      "minPrice": 8140.0,
+      "minPrice": 8170.0,
       "targetUpsidePct": 50.86,
-      "targetProgressPct": -13.7,
+      "targetProgressPct": -13.0,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -79,22 +163,22 @@
       "youtubeUrl": "https://youtu.be/7tFwoGnN-aU",
       "thumbUrl": "https://i.ytimg.com/vi/7tFwoGnN-aU/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 8960.0
+        "close": 8950.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 8960.0,
-        "changePct": -0.99
+        "close": 8950.0,
+        "changePct": -1.1
       },
       "maxPrice": 9050.0,
       "maxReturnPct": 0.0,
-      "minPrice": 8960.0,
+      "minPrice": 8950.0,
       "targetUpsidePct": 51.66,
-      "targetProgressPct": -1.9,
+      "targetProgressPct": -2.1,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -129,22 +213,22 @@
       "youtubeUrl": "https://youtu.be/hETos1Vo9og",
       "thumbUrl": "https://i.ytimg.com/vi/hETos1Vo9og/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 34800.0
+        "close": 34700.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 34800.0,
-        "changePct": -2.52
+        "close": 34700.0,
+        "changePct": -2.8
       },
       "maxPrice": 35700.0,
       "maxReturnPct": 0.0,
-      "minPrice": 34800.0,
+      "minPrice": 34700.0,
       "targetUpsidePct": 49.79,
-      "targetProgressPct": -5.1,
+      "targetProgressPct": -5.6,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -179,22 +263,22 @@
       "youtubeUrl": "https://youtu.be/-Lmd12Nmf84",
       "thumbUrl": "https://i.ytimg.com/vi/-Lmd12Nmf84/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 64900.0
+        "close": 66000.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 64900.0,
-        "changePct": -2.26
+        "close": 66000.0,
+        "changePct": -0.6
       },
       "maxPrice": 66400.0,
       "maxReturnPct": 0.0,
-      "minPrice": 64900.0,
+      "minPrice": 66000.0,
       "targetUpsidePct": 51.36,
-      "targetProgressPct": -4.4,
+      "targetProgressPct": -1.2,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -229,22 +313,22 @@
       "youtubeUrl": "https://youtu.be/7maGFmk9vsI",
       "thumbUrl": "https://i.ytimg.com/vi/7maGFmk9vsI/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 5380.0
+        "close": 5400.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 5380.0,
-        "changePct": -1.1
+        "close": 5400.0,
+        "changePct": -0.74
       },
       "maxPrice": 5440.0,
       "maxReturnPct": 0.0,
-      "minPrice": 5380.0,
+      "minPrice": 5400.0,
       "targetUpsidePct": 35.66,
-      "targetProgressPct": -3.1,
+      "targetProgressPct": -2.1,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -279,22 +363,22 @@
       "youtubeUrl": "https://youtu.be/qF21_lC9nVk",
       "thumbUrl": "https://i.ytimg.com/vi/qF21_lC9nVk/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 8160.0
+        "close": 8060.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 8160.0,
-        "changePct": -2.28
+        "close": 8060.0,
+        "changePct": -3.47
       },
       "maxPrice": 8350.0,
       "maxReturnPct": 0.0,
-      "minPrice": 8160.0,
+      "minPrice": 8060.0,
       "targetUpsidePct": 79.64,
-      "targetProgressPct": -2.9,
+      "targetProgressPct": -4.4,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -329,22 +413,22 @@
       "youtubeUrl": "https://youtu.be/bvZgXqkxZ3U",
       "thumbUrl": "https://i.ytimg.com/vi/bvZgXqkxZ3U/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 1875.0
+        "close": 1879.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 1875.0,
-        "changePct": -5.54
+        "close": 1879.0,
+        "changePct": -5.34
       },
       "maxPrice": 1985.0,
       "maxReturnPct": 0.0,
-      "minPrice": 1875.0,
+      "minPrice": 1879.0,
       "targetUpsidePct": 35.04,
-      "targetProgressPct": -15.8,
+      "targetProgressPct": -15.2,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -379,22 +463,22 @@
       "youtubeUrl": "https://youtu.be/s83trgqI-pQ",
       "thumbUrl": "https://i.ytimg.com/vi/s83trgqI-pQ/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 59550.0
+        "close": 59800.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 59550.0,
-        "changePct": 7.49
+        "close": 59800.0,
+        "changePct": 7.94
       },
-      "maxPrice": 59550.0,
-      "maxReturnPct": 7.49,
+      "maxPrice": 59800.0,
+      "maxReturnPct": 7.94,
       "minPrice": 55400.0,
       "targetUpsidePct": 26.78,
-      "targetProgressPct": 28.0,
+      "targetProgressPct": 29.7,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -431,32 +515,32 @@
       "history": [
         {
           "date": "2026-10-23",
-          "close": 12770.0,
-          "changePct": 1.11
+          "close": 12760.0,
+          "changePct": 1.03
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 12770.0
+        "close": 12760.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 12770.0,
-        "changePct": 1.11
+        "close": 12760.0,
+        "changePct": 1.03
       },
-      "maxPrice": 12770.0,
-      "maxReturnPct": 1.11,
+      "maxPrice": 12760.0,
+      "maxReturnPct": 1.03,
       "minPrice": 12630.0,
       "targetUpsidePct": 31.71,
-      "targetProgressPct": 3.5,
+      "targetProgressPct": 3.2,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": 1.11,
+        "1": 1.03,
         "3": null,
         "5": null,
         "10": null,
@@ -487,32 +571,32 @@
       "history": [
         {
           "date": "2026-10-23",
-          "close": 2395.0,
-          "changePct": 0.21
+          "close": 2400.0,
+          "changePct": 0.42
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 2395.0
+        "close": 2400.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 2395.0,
-        "changePct": 0.21
+        "close": 2400.0,
+        "changePct": 0.42
       },
-      "maxPrice": 2395.0,
-      "maxReturnPct": 0.21,
+      "maxPrice": 2400.0,
+      "maxReturnPct": 0.42,
       "minPrice": 2390.0,
       "targetUpsidePct": 50.0,
-      "targetProgressPct": 0.4,
+      "targetProgressPct": 0.8,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": 0.21,
+        "1": 0.42,
         "3": null,
         "5": null,
         "10": null,
@@ -543,32 +627,32 @@
       "history": [
         {
           "date": "2026-10-23",
-          "close": 38600.0,
-          "changePct": 5.03
+          "close": 38800.0,
+          "changePct": 5.58
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 38600.0
+        "close": 38800.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 38600.0,
-        "changePct": 5.03
+        "close": 38800.0,
+        "changePct": 5.58
       },
-      "maxPrice": 38600.0,
-      "maxReturnPct": 5.03,
+      "maxPrice": 38800.0,
+      "maxReturnPct": 5.58,
       "minPrice": 36750.0,
       "targetUpsidePct": 43.31,
-      "targetProgressPct": 11.6,
+      "targetProgressPct": 12.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": 5.03,
+        "1": 5.58,
         "3": null,
         "5": null,
         "10": null,
@@ -603,7 +687,7 @@
           "changePct": -9.04
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
@@ -655,32 +739,32 @@
       "history": [
         {
           "date": "2026-10-23",
-          "close": 26400.0,
-          "changePct": 3.53
+          "close": 26600.0,
+          "changePct": 4.31
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 26400.0
+        "close": 26600.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 26400.0,
-        "changePct": 3.53
+        "close": 26600.0,
+        "changePct": 4.31
       },
-      "maxPrice": 26400.0,
-      "maxReturnPct": 3.53,
+      "maxPrice": 26600.0,
+      "maxReturnPct": 4.31,
       "minPrice": 25500.0,
       "targetUpsidePct": 25.49,
-      "targetProgressPct": 13.8,
+      "targetProgressPct": 16.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": 3.53,
+        "1": 4.31,
         "3": null,
         "5": null,
         "10": null,
@@ -711,32 +795,32 @@
       "history": [
         {
           "date": "2026-10-23",
-          "close": 9150.0,
-          "changePct": -10.21
+          "close": 9100.0,
+          "changePct": -10.7
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 9150.0
+        "close": 9100.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 9150.0,
-        "changePct": -10.21
+        "close": 9100.0,
+        "changePct": -10.7
       },
       "maxPrice": 10190.0,
       "maxReturnPct": 0.0,
-      "minPrice": 9150.0,
+      "minPrice": 9100.0,
       "targetUpsidePct": 27.33,
-      "targetProgressPct": -37.3,
+      "targetProgressPct": -39.1,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
       "stopLossAlert": false,
       "milestones": {
-        "1": -10.21,
+        "1": -10.7,
         "3": null,
         "5": null,
         "10": null,
@@ -787,26 +871,26 @@
         },
         {
           "date": "2026-10-23",
-          "close": 697.0,
-          "changePct": -33.56
+          "close": 698.0,
+          "changePct": -33.46
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 697.0
+        "close": 698.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 697.0,
-        "changePct": -33.56
+        "close": 698.0,
+        "changePct": -33.46
       },
       "maxPrice": 1049.0,
       "maxReturnPct": 0.0,
-      "minPrice": 697.0,
+      "minPrice": 698.0,
       "targetUpsidePct": 15.4,
-      "targetProgressPct": -218.0,
+      "targetProgressPct": -217.3,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -814,7 +898,7 @@
       "milestones": {
         "1": -6.29,
         "3": -20.5,
-        "5": -33.56,
+        "5": -33.46,
         "10": null,
         "20": null
       },
@@ -863,26 +947,26 @@
         },
         {
           "date": "2026-10-23",
-          "close": 178.0,
-          "changePct": -58.41
+          "close": 171.0,
+          "changePct": -60.05
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 178.0
+        "close": 171.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 178.0,
-        "changePct": -58.41
+        "close": 171.0,
+        "changePct": -60.05
       },
       "maxPrice": 428.0,
       "maxReturnPct": 0.0,
-      "minPrice": 178.0,
+      "minPrice": 171.0,
       "targetUpsidePct": 32.83,
-      "targetProgressPct": -177.9,
+      "targetProgressPct": -182.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -890,7 +974,7 @@
       "milestones": {
         "1": -29.91,
         "3": -45.79,
-        "5": -58.41,
+        "5": -60.05,
         "10": null,
         "20": null
       },
@@ -1219,26 +1303,26 @@
         },
         {
           "date": "2026-10-23",
-          "close": 9000.0,
-          "changePct": -16.36
+          "close": 8970.0,
+          "changePct": -16.64
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 9000.0
+        "close": 8970.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 9000.0,
-        "changePct": -16.36
+        "close": 8970.0,
+        "changePct": -16.64
       },
       "maxPrice": 10760.0,
       "maxReturnPct": 0.0,
-      "minPrice": 9000.0,
+      "minPrice": 8970.0,
       "targetUpsidePct": 6.88,
-      "targetProgressPct": -237.8,
+      "targetProgressPct": -241.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -1246,7 +1330,7 @@
       "milestones": {
         "1": -0.09,
         "3": -10.04,
-        "5": -16.36,
+        "5": -16.64,
         "10": null,
         "20": null
       },
@@ -1295,26 +1379,26 @@
         },
         {
           "date": "2026-10-23",
-          "close": 9000.0,
-          "changePct": -16.36
+          "close": 8970.0,
+          "changePct": -16.64
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 9000.0
+        "close": 8970.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 9000.0,
-        "changePct": -16.36
+        "close": 8970.0,
+        "changePct": -16.64
       },
       "maxPrice": 10760.0,
       "maxReturnPct": 0.0,
-      "minPrice": 9000.0,
+      "minPrice": 8970.0,
       "targetUpsidePct": 6.88,
-      "targetProgressPct": -237.8,
+      "targetProgressPct": -241.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -1322,7 +1406,7 @@
       "milestones": {
         "1": -0.09,
         "3": -10.04,
-        "5": -16.36,
+        "5": -16.64,
         "10": null,
         "20": null
       },
@@ -1429,22 +1513,22 @@
       "youtubeUrl": "https://youtu.be/JmmfRB1BdQI",
       "thumbUrl": "https://i.ytimg.com/vi/JmmfRB1BdQI/hqdefault.jpg",
       "history": [],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 6870.0
+        "close": 6800.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 6870.0,
-        "changePct": -6.28
+        "close": 6800.0,
+        "changePct": -7.23
       },
       "maxPrice": 7330.0,
       "maxReturnPct": 0.0,
-      "minPrice": 6870.0,
+      "minPrice": 6800.0,
       "targetUpsidePct": 36.29,
-      "targetProgressPct": -17.3,
+      "targetProgressPct": -19.9,
       "targetStatus": "관찰 중",
       "targetStatusClass": "wait",
       "stopLossMarginPct": null,
@@ -1545,7 +1629,7 @@
           "changePct": -6.47
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
@@ -1621,7 +1705,7 @@
           "changePct": -6.47
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
@@ -1782,24 +1866,24 @@
         },
         {
           "date": "2026-10-23",
-          "close": 178.0,
-          "changePct": -25.52
+          "close": 171.0,
+          "changePct": -28.45
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 178.0
+        "close": 171.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 178.0,
-        "changePct": -25.52
+        "close": 171.0,
+        "changePct": -28.45
       },
       "maxPrice": 428.0,
       "maxReturnPct": 79.08,
-      "minPrice": 178.0,
+      "minPrice": 171.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -1865,24 +1949,24 @@
         },
         {
           "date": "2026-10-23",
-          "close": 1092.0,
-          "changePct": -9.15
+          "close": 1083.0,
+          "changePct": -9.9
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 1092.0
+        "close": 1083.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 1092.0,
-        "changePct": -9.15
+        "close": 1083.0,
+        "changePct": -9.9
       },
       "maxPrice": 1273.0,
       "maxReturnPct": 5.91,
-      "minPrice": 1092.0,
+      "minPrice": 1083.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -1948,24 +2032,24 @@
         },
         {
           "date": "2026-10-23",
-          "close": 2690.0,
-          "changePct": -28.27
+          "close": 2790.0,
+          "changePct": -25.6
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 2690.0
+        "close": 2790.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 2690.0,
-        "changePct": -28.27
+        "close": 2790.0,
+        "changePct": -25.6
       },
       "maxPrice": 3800.0,
       "maxReturnPct": 1.33,
-      "minPrice": 2690.0,
+      "minPrice": 2790.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -2104,15 +2188,15 @@
         },
         {
           "date": "2026-10-23",
-          "close": 210500.0,
-          "changePct": -1.64
+          "close": 210000.0,
+          "changePct": -1.87
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 210500.0
+        "close": 210000.0
       },
       "youtubeId": "qdPBviVuBAU",
       "youtubeUrl": "https://youtu.be/qdPBviVuBAU",
@@ -2120,8 +2204,8 @@
       "archetype": "저평가 가치 반등",
       "latest": {
         "date": "2026-10-23",
-        "close": 210500.0,
-        "changePct": -1.64
+        "close": 210000.0,
+        "changePct": -1.87
       },
       "maxPrice": 224000.0,
       "maxReturnPct": 4.67,
@@ -2196,20 +2280,20 @@
         },
         {
           "date": "2026-10-23",
-          "close": 210500.0,
-          "changePct": 0.48
+          "close": 210000.0,
+          "changePct": 0.24
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 210500.0
+        "close": 210000.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 210500.0,
-        "changePct": 0.48
+        "close": 210000.0,
+        "changePct": 0.24
       },
       "maxPrice": 224000.0,
       "maxReturnPct": 6.92,
@@ -2284,24 +2368,24 @@
         },
         {
           "date": "2026-10-23",
-          "close": 7890.0,
-          "changePct": -28.73
+          "close": 7940.0,
+          "changePct": -28.27
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 7890.0
+        "close": 7940.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 7890.0,
-        "changePct": -28.73
+        "close": 7940.0,
+        "changePct": -28.27
       },
       "maxPrice": 11500.0,
       "maxReturnPct": 3.88,
-      "minPrice": 7890.0,
+      "minPrice": 7940.0,
       "targetStatus": "설정 없음",
       "targetStatusClass": "none",
       "stopLossMarginPct": null,
@@ -2372,20 +2456,20 @@
         },
         {
           "date": "2026-10-23",
-          "close": 2895.0,
-          "changePct": -17.29
+          "close": 2900.0,
+          "changePct": -17.14
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 2895.0
+        "close": 2900.0
       },
       "latest": {
         "date": "2026-10-23",
-        "close": 2895.0,
-        "changePct": -17.29
+        "close": 2900.0,
+        "changePct": -17.14
       },
       "maxPrice": 3570.0,
       "maxReturnPct": 2.0,
@@ -2537,15 +2621,15 @@
         },
         {
           "date": "2026-10-23",
-          "close": 32850.0,
-          "changePct": -11.69
+          "close": 31900.0,
+          "changePct": -14.25
         }
       ],
-      "checkedAt": "2026-10-23T15:29:08+09:00",
+      "checkedAt": "2026-10-24T04:11:05+09:00",
       "status": "ok",
       "latestQuote": {
         "date": "2026-10-23",
-        "close": 32850.0
+        "close": 31900.0
       },
       "youtubeId": "WrOEhPqfjmA",
       "youtubeUrl": "https://youtu.be/WrOEhPqfjmA",
@@ -2553,8 +2637,8 @@
       "archetype": "저평가 가치 반등",
       "latest": {
         "date": "2026-10-23",
-        "close": 32850.0,
-        "changePct": -11.69
+        "close": 31900.0,
+        "changePct": -14.25
       },
       "maxPrice": 41950.0,
       "maxReturnPct": 12.77,
@@ -2567,7 +2651,7 @@
         "1": 11.02,
         "3": 12.77,
         "5": 1.21,
-        "10": -11.69,
+        "10": -14.25,
         "20": null
       },
       "isUsStock": false,
