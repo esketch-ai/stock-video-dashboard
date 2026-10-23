@@ -6,10 +6,10 @@
     "winRatePct": 20.7,
     "targetHitsCount": 0,
     "marketThrough": "2026-10-23",
-    "generatedAt": "2026-10-23T15:29:08+09:00",
-    "krMarketOpen": true,
-    "usMarketOpen": false,
-    "marketSessionText": "한국 시장 장중 (09:00~17:00 KST)"
+    "generatedAt": "2026-10-23T22:35:25+09:00",
+    "krMarketOpen": false,
+    "usMarketOpen": true,
+    "marketSessionText": "미국 시장 장중 (09:30~16:30 ET)"
   },
   "pricePolicy": "YouTube 영상 추천 당시 종가 대비 미조정 일별 종가 수익률입니다. 한국 주식은 09:00~17:00 KST, 미국 주식은 09:30~16:30 ET 동안 1시간마다 갱신됩니다.",
   "items": [
